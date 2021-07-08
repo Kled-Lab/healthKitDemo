@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5411B270-CD75-47B3-8770-07197F027C1A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38FDD2C3-87B2-4B3E-9370-CDEC0378C985"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HealthKitDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "readStep()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "38FDD2C3-87B2-4B3E-9370-CDEC0378C985 - 49a46c123d66f2d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HealthKitDemo.ViewController.readStep() -&gt; ()"
+                  moduleName = "HealthKitDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kled/Downloads/healthKitDemo-master/HealthKitDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "2580">
+               </Location>
+               <Location
+                  uuid = "38FDD2C3-87B2-4B3E-9370-CDEC0378C985 - d35c9f6bb4371054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.HKSampleQuery, Swift.Optional&lt;Swift.Array&lt;__C.HKSample&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in HealthKitDemo.ViewController.readStep() -&gt; ()"
+                  moduleName = "HealthKitDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kled/Downloads/healthKitDemo-master/HealthKitDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EF7293B-7E2F-48AF-A333-53052B916EA3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HealthKitDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8EF7293B-7E2F-48AF-A333-53052B916EA3 - 64614c608393898"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in HealthKitDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "HealthKitDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kled/Downloads/healthKitDemo-master/HealthKitDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1152">
+               </Location>
+               <Location
+                  uuid = "8EF7293B-7E2F-48AF-A333-53052B916EA3 - 309cf2e43b4e8639"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in HealthKitDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "HealthKitDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kled/Downloads/healthKitDemo-master/HealthKitDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E344FC2-307A-4548-8524-9DA385F0D01E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HealthKitDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
